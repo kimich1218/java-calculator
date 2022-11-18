@@ -1,6 +1,6 @@
 import java.util.stream.DoubleStream;
 
-public class Calculator {
+public class TestCode {
 
     static double add(double... operands) {
         return DoubleStream.of(operands)
